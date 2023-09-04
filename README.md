@@ -1,6 +1,6 @@
 # All about C# Coding
-
-``` Kirjutab teksti Konsooli, sõltuvalt sisendist.
+### Konsool ja selle kasutamine
+``` 
 Console.WriteLine("Enter your name: ");
 ```
 
