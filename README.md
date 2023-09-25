@@ -33,6 +33,7 @@ i = 0
 for(i=0; i <  5; i++){}
 Saab ka ilma muutuja deklareerimiseta
 ```
+```
 Random rand = new Random();
 To generate a random number
 ```
