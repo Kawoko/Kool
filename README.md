@@ -22,3 +22,17 @@ Console.WriteLine("Enter your name: ");
 string name = Console.ReadLine();
 Console.WriteLine($"Hello, {name} !");
 ```
+
+For loopid
+```
+for(int i=0; i <  5; i++){}
+Deklareerime muutuja ning tingimuse
+```
+```
+i = 0
+for(i=0; i <  5; i++){}
+Saab ka ilma muutuja deklareerimiseta
+```
+Random rand = new Random();
+To generate a random number
+```
