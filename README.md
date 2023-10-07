@@ -37,3 +37,7 @@ Saab ka ilma muutuja deklareerimiseta
 Random rand = new Random();
 To generate a random number
 ```
+```
+Trim();
+```
+Lõikab kõik white-spaced stringist
